@@ -1,8 +1,149 @@
 ---
-# the default layout is 'page'
+title: About Geunho Bang (ddooby)
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> If you are intereted in me, you can get more detail about me by visiting my [Notion Portfolio(ko)](https://panggeunho.oopy.io) for detail! 
+<br>
+
+
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 2rem; margin-top: 8rem;">
+    <img src="https://github.com/banggeunho/banggeunho.github.io/assets/72342550/ad872478-0ab2-4caa-953e-57bb79a7895f" width="300">
+  </div>
+  <div>
+    <h2>CONTACT INFORMATION</h2>
+    <h3>📮 Contacts</h3>
+    <ul>
+      <li>
+        <a href="mailto:panggeunho@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+        </a>
+      </li>
+      <li>
+        <a href="mailto:ddooby.doobob@kakaoenterprise.com">
+          <img src="https://img.shields.io/badge/-KakaoEnterprise-yellow?style=flat-square&logoColor=white" alt="KEP Badge">
+        </a>
+      </li>
+    </ul>
+    <h3>📚 Blog</h3>
+    <ul>
+      <li>
+        <a href="https://banggeunho.github.io/">
+          <img src="https://img.shields.io/badge/-GithubBlog-black?style=flat-square&logo=Github&logoColor=white" alt="Github Blog Badge">
+        </a>
+      </li>
+      <li>
+        <a href="https://velog.io/@banggeunho">
+          <img src="https://img.shields.io/badge/-VelogBlog-black?style=flat-square&logoColor=white" alt="Velog Blog Badge">
+        </a>
+      </li>
+    </ul>
+    <h3>🔗 SNS</h3>
+    <ul>
+      <li>
+        <a href="https://github.com/hhhyunwoo">
+          <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white" alt="Github Badge">
+        </a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/banggeunho/">
+          <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+### I'm a software engineer who is curious about every new things. And “Don’t ever say it’s over if I’m breathing” is my favorite song lyric. I always try my best to have no regrets. 😊
+
+---
+# 🏢  WORK EXPERIENCES
+
+---
+
+## Kakao Enterprise, South Korea
+
+### Backend Engineer, Order Management System Part
+
+*April 2023 ~ Present*
+
+- **OMS platform service advancement**
+     - Development of API to verify product image requirements for each e-commerce product before product display
+     - Utilize design patterns **Class design considering scalability and maintainability**
+
+- **Redesign and development of e-commerce order/claim collection batch logic**
+     - Using design patterns **remove redundant logic and reduce development time**
+     - Development of e-commerce linkage interfaces such as WeMakePrice, Lotte ON, and TMON
+     - Order collection batch **Performance improvement**: Based on 10,000 items **30 minutes → 1 minute**
+     - Development of API to verify product image requirements for each e-commerce product before product display
+     - Utilize design patterns **Class design considering scalability and maintainability**
+
+
+---
+# 🛠  SKILLS
+
+---
+
+## Language
+
+- Java 1.8+
+- Python
+- Javascript ES6
+
+## Framework
+
+- Spring Framwork (boot, batch, cloud)
+- JPA
+
+## Backend
+
+- MySQL
+- MongoDB
+- Kafka
+
+## Cloud Native
+
+- Kubernetes
+- Docker
+- ArgoCD
+
+## DevOps
+
+- ArgoCD
+- Github Action
+- Jenkins
+
+
+
+# 🎓  EDUCATION
+
+---
+
+## Gachon University, South Korea
+
+2016.03 ~ 2023.02.
+
+- Bachelor of Software Engineer
+- GPA : 3.91 / 4.50
+
+## Gachon-KakaoEnterprise SW Acaddemy, South Korea
+
+2022.09 ~ 2023.02
+- Completed training in **Web, Data Management, and Cloud Architecture**
+- Selected as **an excellent trainee (1 of 50)**
+
+# 📜 CERTIFICATIONS
+
+---
+
+<!-- ### AWS Certified Cloud Practitioner (CLF)
+
+Issued Apr 2023 · Expires Apr 2026
+
+### MLOps Engineering on AWSMLOps Engineering on AWS
+
+Issued Apr 2022 · Expires Apr 2025 -->
+
 {: .prompt-tip }
