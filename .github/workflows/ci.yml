@@ -43,3 +43,6 @@ jobs:
 
       - name: Test Site
         run: bash tools/test
+
+      - name: Deploy
+        run: basn tools/release
