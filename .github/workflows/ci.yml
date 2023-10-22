@@ -38,7 +38,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
 
-      - nmae: Setup Standard-version
+      - name: Setup Standard-version
         uses: npm i -s standard-version
 
       - name: Build Assets
