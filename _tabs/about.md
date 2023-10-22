@@ -10,7 +10,7 @@ order: 4
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 2rem; margin-top: 8rem;">
-    <img src="https://github.com/banggeunho/banggeunho.github.io/assets/72342550/c98ba9f8-7661-45e4-849f-77c8cc900f12" width="300">
+    <img src="https://github.com/banggeunho/banggeunho.github.io/assets/72342550/c98ba9f8-7661-45e4-849f-77c8cc900f12" alt="profile" width="300">
   </div>
   <div>
     <h2>CONTACT INFORMATION</h2>
