@@ -39,7 +39,7 @@ jobs:
         uses: actions/setup-node@v3
 
       - name: Setup Standard-version
-        uses: npm i -s standard-version
+        run: npm i -s standard-version
 
       - name: Build Assets
         run: npm i && npm run build
