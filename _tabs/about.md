@@ -43,7 +43,7 @@ order: 4
     <h3>🔗 SNS</h3>
     <ul>
       <li>
-        <a href="https://github.com/hhhyunwoo">
+        <a href="https://github.com/banggeunho">
           <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white" alt="Github Badge">
         </a>
       </li>
