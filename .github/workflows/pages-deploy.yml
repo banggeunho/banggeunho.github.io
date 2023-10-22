@@ -48,6 +48,9 @@ jobs:
           ruby-version: 3
           bundler-cache: true
 
+      - name: Build Assets
+        run: npm i && npm run build
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
@@ -59,8 +62,7 @@ jobs:
             \-\-disable-external=true \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
-      - name: Build Assets
-        run: npm i && npm run build
+
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1

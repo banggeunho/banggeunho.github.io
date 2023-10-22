@@ -2,7 +2,7 @@ name: "CI"
 on:
   push:
     branches-ignore:
-      - "production"
+      - "master"
       - "docs"
     paths-ignore:
       - ".github/**"
