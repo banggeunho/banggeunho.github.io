@@ -9,8 +9,8 @@ order: 4
 
 
 <div style="display: flex; flex-direction: row;">
-  <div style="margin-right: 2rem; margin-top: 8rem;">
-    <img src="https://github.com/banggeunho/banggeunho.github.io/assets/72342550/c98ba9f8-7661-45e4-849f-77c8cc900f12" alt="profile" width="300">
+  <div style="margin-right: 2rem; margin-top: 2rem;">
+    <img src="https://github.com/banggeunho/banggeunho.github.io/assets/72342550/c98ba9f8-7661-45e4-849f-77c8cc900f12" alt="profile" width="400">
   </div>
   <div>
     <h2>CONTACT INFORMATION</h2>
@@ -18,12 +18,12 @@ order: 4
     <ul>
       <li>
         <a href="mailto:panggeunho@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+          Gmail
         </a>
       </li>
       <li>
         <a href="mailto:ddooby.doobob@kakaoenterprise.com">
-          <img src="https://img.shields.io/badge/-KakaoEnterprise-yellow?style=flat-square&logoColor=white" alt="KEP Badge">
+          Kakao Enterprise
         </a>
       </li>
     </ul>
@@ -31,12 +31,12 @@ order: 4
     <ul>
       <li>
         <a href="https://banggeunho.github.io/">
-          <img src="https://img.shields.io/badge/-GithubBlog-black?style=flat-square&logo=Github&logoColor=white" alt="Github Blog Badge">
+          Github Blog
         </a>
       </li>
       <li>
         <a href="https://velog.io/@banggeunho">
-          <img src="https://img.shields.io/badge/-VelogBlog-black?style=flat-square&logoColor=white" alt="Velog Blog Badge">
+          Velog
         </a>
       </li>
     </ul>
@@ -44,12 +44,12 @@ order: 4
     <ul>
       <li>
         <a href="https://github.com/banggeunho">
-          <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white" alt="Github Badge">
+          GitHub
         </a>
       </li>
       <li>
         <a href="https://www.linkedin.com/in/banggeunho/">
-          <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+          LinkedIn
         </a>
       </li>
     </ul>
